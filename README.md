@@ -12,9 +12,6 @@ I'm student and  junior full stack freelancer developer. <br>I'm interested codi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayaksoy&theme=calm_pink&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaksoy&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayaksoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ayaksoy&icon=0&color=7)](https://visitcount.itsvg.in)
 
