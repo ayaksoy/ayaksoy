@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Test Automation Frameworks**
 
-- 🌱 I'm currently learning **Selenium, TestNG, Cucumber BDD, Jenkins & CI/CD Pipelines**
+- 🌱 6 years exp. **Selenium, TestNG, Cucumber BDD, Jenkins & CI/CD Pipelines**
 
 - 👯 I'm looking to collaborate on **Java based Automation Projects**
 
